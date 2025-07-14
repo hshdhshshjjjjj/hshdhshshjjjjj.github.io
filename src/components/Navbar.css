@@ -1,0 +1,52 @@
+.navbar {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  background: #fff;
+  box-shadow: 0 2px 12px #e0d7f8;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.navbar-logo {
+  color: #7b2ff2;
+  font-family: 'Inter', 'Segoe UI', 'Arial', sans-serif;
+  font-size: 2rem;
+  font-weight: bold;
+  letter-spacing: 2px;
+  margin-left: 1.5rem;
+}
+
+.navbar-links {
+  display: flex;
+  gap: 2rem;
+}
+
+.neon-link {
+  color: #7b2ff2;
+  font-size: 1.1rem;
+  text-decoration: none;
+  padding: 0.3rem 1rem 0.3rem 1rem;
+  border-radius: 4px;
+  transition: color 0.2s, box-shadow 0.2s;
+  position: relative;
+}
+
+.neon-link.active::after {
+  content: '';
+  display: block;
+  height: 3px;
+  border-radius: 2px;
+  background: linear-gradient(90deg, #a18cd1 0%, #fbc2eb 100%);
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -6px;
+}
+
+.neon-link:hover {
+  color: #a18cd1;
+} 
