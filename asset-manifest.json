@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/ash-dev-port.github.io/static/css/main.bb2b7836.css",
-    "main.js": "/ash-dev-port.github.io/static/js/main.d0db8237.js",
-    "static/js/453.55b74dba.chunk.js": "/ash-dev-port.github.io/static/js/453.55b74dba.chunk.js",
-    "static/media/react-logo.svg": "/ash-dev-port.github.io/static/media/react-logo.271d7a564fdf58b4773d2170aa0abdb5.svg",
-    "static/media/logo.svg": "/ash-dev-port.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/ash-dev-port.github.io/index.html",
-    "main.bb2b7836.css.map": "/ash-dev-port.github.io/static/css/main.bb2b7836.css.map",
-    "main.d0db8237.js.map": "/ash-dev-port.github.io/static/js/main.d0db8237.js.map",
-    "453.55b74dba.chunk.js.map": "/ash-dev-port.github.io/static/js/453.55b74dba.chunk.js.map"
+    "main.css": "/static/css/main.bb2b7836.css",
+    "main.js": "/static/js/main.b515e494.js",
+    "static/js/453.d84b665f.chunk.js": "/static/js/453.d84b665f.chunk.js",
+    "static/media/react-logo.svg": "/static/media/react-logo.271d7a564fdf58b4773d2170aa0abdb5.svg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.bb2b7836.css.map": "/static/css/main.bb2b7836.css.map",
+    "main.b515e494.js.map": "/static/js/main.b515e494.js.map",
+    "453.d84b665f.chunk.js.map": "/static/js/453.d84b665f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bb2b7836.css",
-    "static/js/main.d0db8237.js"
+    "static/js/main.b515e494.js"
   ]
 }
